@@ -1,0 +1,10 @@
+ada.lovelace@some.where.org
+ada.lovelace@some_where.org
+ada.lovelace_at_some.where.org
+ada.lovelace@some.whereorg
+ada.lovelace@some.where.ORG
+ada-lovelace@some_where-org
+ada-lovelace@some-where.org
+ada%lovelace@some-where.org
+ada.lovelace@some_where.org7
+ada%love lace@some-where.org
