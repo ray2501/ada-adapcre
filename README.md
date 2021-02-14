@@ -23,6 +23,10 @@ UNIX BUILD
 
 I only test on openSUSE LEAP 15.2.
 
+Users need install PCRE library development files.
+
+    sudo zypper in pcre-devel
+
 Users need use `make` to build:
 
     make
