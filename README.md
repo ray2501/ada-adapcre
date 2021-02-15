@@ -6,7 +6,7 @@ implements regular expression pattern matching using the
 same syntax and semantics as Perl 5.
 PCRE means Perl Compatible Regular Expressions.
 
-This package is Ada bindings for PCRE library.
+This package is Ada bindings for PCRE library (PCRE1).
 
 Original code base is from 
 [interfacing_with_c_-_pcre_library](http://wiki.ada-dk.org/interfacing_with_c_-_pcre_library).
