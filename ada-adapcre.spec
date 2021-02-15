@@ -28,6 +28,7 @@ This package is Ada bindings for PCRE library.
 %package -n %{libname}%{soname}
 Summary:        Library files for ada-adapcre
 Group:          System/Libraries
+Obsoletes:      %{libname}%{soname} < %{version}
 
 %description -n %{libname}%{soname}
 The %{libname}%{soname} package contains library files for ada-adapcre.
