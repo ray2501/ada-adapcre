@@ -8,7 +8,7 @@ LIBRARY_TYPE = dynamic
 
 MAJOR   = 0
 MINOR   = 1
-REV     = 3
+REV     = 4
 VERSION = $(MAJOR).$(MINOR).$(REV)
 DBUSADA = libadapcre-$(VERSION)
 

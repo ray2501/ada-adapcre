@@ -3,10 +3,10 @@
 #
 
 %define libname libadapcre
-%define soname 0_1_3
+%define soname 0_1_4
 
 Name:           ada-adapcre
-Version:        0.1.3
+Version:        0.1.4
 Release:        1
 Summary:        Ada bindings for PCRE library
 License:        MIT
